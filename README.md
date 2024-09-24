@@ -1,3 +1,1 @@
 Le site Clic-Burger présente un restaurant de burgers et fast-food nommé "youss-cuisto" à Yaoundé. Il met en avant les délicieux plats du restaurant, permet aux clients de découvrir le menu et les offres spéciales, et donne la possibilité de réserver une table. Le site partage aussi des avis de clients satisfaits et des articles sur la nourriture pour attirer et fidéliser la clientèle. C'est une vitrine en ligne attrayante qui vise à donner envie aux visiteurs de venir goûter les burgers et autres spécialités du restaurant.
-
-![Alt text](readme-images/desktop.png)
